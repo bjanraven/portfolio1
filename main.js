@@ -1,0 +1,1 @@
+document.getElementById("myID").innnerHTML="my new H1";
